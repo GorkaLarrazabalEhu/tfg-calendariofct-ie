@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Excel temporales
+~$*.xlsx
+
+# Datos reales y resultados generados
+data/input/*
+data/output/*
+
+
+# Sistema
+.DS_Store
+Thumbs.db
