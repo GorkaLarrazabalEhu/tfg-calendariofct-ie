@@ -12,6 +12,7 @@ __pycache__/
 ~$*.xlsx
 
 # Datos reales y resultados generados
+data/pdf/*
 data/input/*
 data/output/*
 
